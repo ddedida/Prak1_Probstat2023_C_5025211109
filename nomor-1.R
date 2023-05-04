@@ -4,7 +4,7 @@
 
 # Nomor 1
 # Percobaan = 10
-# Probabilitas = 0.488
+# Probabilias = 0.488
 
 # Poin 1A
 # Distribusi : Binomial
@@ -39,7 +39,7 @@ simp_baku
 f <- 0:10
 plot(f, dbinom(x=f, size=10, prob=0.488),
      type='h',
-     main='n histogram pendistribusian banyak bayi laki-laki',
-     xlab='Banyak bayi laki-laki',
+     main='Histogram Pendistribusian Banyak Bayi Laki-laki',
+     xlab='Banyak Bayi Laki-laki',
      ylab='Probabilitas'
 )
