@@ -4,7 +4,7 @@
 
 # Nomor 1
 # Percobaan = 10
-# Probabilias = 0.488
+# Probabilitas = 0.488
 
 # Poin 1A
 # Distribusi : Binomial
